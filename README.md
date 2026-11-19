@@ -3,7 +3,6 @@
 Zestaw na **ocenę 5**: **2 najprostsze + 1 konkretne + 2 praktyczne**, zgodnie z kryteriami.
 
 - [Treść pięciu zadań](zadania.md)
-- [Materiały do wykonania zadań](materialy_perfect_forwarding.md)
 - `zadanie1/` — przeciążenia lvalue, const lvalue i rvalue
 - `zadanie2/` — zwykłe przekazanie, move i forward
 - `zadanie3/` — kopiowanie i przenoszenie
