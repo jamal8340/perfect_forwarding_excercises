@@ -10,7 +10,7 @@ Zestaw na **ocenę 5**: **2 najprostsze + 1 konkretne + 2 praktyczne**, zgodnie 
 - `zadanie4/` — fabryka `Ticket` i `emplace_back` w `std::vector`
 - `zadanie5/` — wrapper z `std::invoke`, zachowaniem referencji i wywołaniem metody
 
-Zadania bazują wyłącznie na `materialy_perfect_forwarding.md` (sekcje 3–9). W treści podano, do której części materiału warto zajrzeć. **Nie dołączono rozwiązań do tego archiwum**, tak jak w referencyjnym zestawie na ocenę 5.
+Zadania bazują wyłącznie na `materialy_perfect_forwarding.md` (sekcje 3–9). W treści podano, do której części materiału warto zajrzeć. 
 
 ## Wymagania
 
@@ -33,3 +33,6 @@ g++ -std=c++17 -Wall -Wextra -pedantic zadanie1/main.cpp -o program
 ```
 
 Na Windows lokalizacja pliku wykonywalnego zależy od generatora CMake, np. `zadanie1\build\Debug\program.exe`.
+
+
+POWODZENIA!
